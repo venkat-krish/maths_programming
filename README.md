@@ -7,4 +7,8 @@ Mathematical concepts are inevitable in software engineering paradigm. The softw
 **Python** programming language is a default choice of implementation of all the mathematical concepts here.
 
 ## Folder structure
+The repository folder structure follows an hierarchy as a main folder with 2 sub-folders. 
+* << concepts >> - Main folder
+* basics - contains the mathematical formula and programmatic implementation on the input data.
+* problems - realtime problem statement and solution to it. 
 
